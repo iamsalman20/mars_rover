@@ -1,0 +1,15 @@
+{
+  "name": "mars_rover",
+  "version": "1.0.0",
+  "description": "Mars Rover problem",
+  "main": "rover-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mars",
+    "rover"
+  ],
+  "author": "Salman Noshad",
+  "license": "MIT"
+}
